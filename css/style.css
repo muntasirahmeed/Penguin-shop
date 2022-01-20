@@ -1,0 +1,35 @@
+/* adding font in website  */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+nav{
+    height: 80px;
+    
+}
+
+section{
+    font-family: 'Bebas Neue', cursive;
+}
+p> a{
+    display: inline-block;
+    text-decoration: none;
+    background-image: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+    color: white;
+    padding: 10px 25px;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: 500;
+}
+.heading{
+    color:#FABE4C;
+
+}
+.heading2{
+    color: #363958;
+}
+.jacket-bground{
+    background-color: #F1F1F1;
+    border-radius: 20px;
+}
+.Jacket{
+    border-radius: 20px;
+}
